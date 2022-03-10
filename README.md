@@ -29,8 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HarshJohn/qr-code-component-main.git)
-- Live Site URL: [Add live site URL here](https://qr-code-frontendmentor-challenge-harshjohn.netlify.app/)
+- Solution URL: [GitHub Repo](https://github.com/HarshJohn/qr-code-component-main.git)
+- Live Site URL: [QR-Code-component-website](https://qr-code-frontendmentor-challenge-harshjohn.netlify.app/)
 
 ## My process
 
