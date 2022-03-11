@@ -22,10 +22,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 #Screenshot when width=1440px
-![](./images/Screenshots/Screen%20Shot%202022-03-10%20at%2012.50.16.png)
+![](./images/Screenshots/Screen-shot-1440.png)
 
 #screenshot when width=375px
-![](./images/Screenshots/Screen%20Shot%202022-03-10%20at%2012.50.23.png)
+![](./images/Screenshots/Screen-shot-375.png)
 
 ### Links
 
